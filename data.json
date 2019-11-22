@@ -1,0 +1,23 @@
+[{
+        "name": "Coca-Cola",
+            "description": "The Coca-Cola Company es una corporación multinacional de bebidas estadounidense. Con sede en Atlanta, Georgia esta empresa es conocida por el refresco más consumido del mundo: la Coca-Cola. Además, está considerada como una de las mayores corporaciones estadounidenses y una de las que cotiza en código KO como parte del índice Dow Jones.",
+            "rating": "8.16",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coca-Cola_bottle_cap.svg/1200px-Coca-Cola_bottle_cap.svg.png"
+    },{
+        "name": "Pepsi",
+            "description": "PepsiCo Inc. es una empresa multinacional estadounidense dedicada a la fabricación, comercialización y distribución de bebidas y aperitivos. Tiene su sede en Purchase, Nueva York, Estados Unidos. PepsiCo se formó en 1965 a partir de la fusión de la Pepsi-Cola Company y Frito-Lay. PepsiCo ha ampliado desde entonces a partir de su homónimo de productos Pepsi a una gama más amplia de marcas de alimentos y bebidas, la mayor de las cuales fue la adquisición de Tropicana en 1998 y de Quaker Oats en 2001, lo que añade la marca Gatorade a su cartera. Sobre la base de los ingresos netos, PepsiCo es la segunda mayor empresa de alimentos y bebidas en el mundo, presente en más de 200 países con diferentes marcas (algunas regionales). En América del Norte, PepsiCo es la mayor empresa de alimentos y bebidas por ingresos netos. ",
+            "rating": "8.54",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pepsi_logo_2014.svg/1200px-Pepsi_logo_2014.svg.png"
+    },{
+        "name": "La Moderna",
+            "description": "La Fábrica de Pastas Alimenticias La Moderna, se funda en 1920 cuando los hermanos Vendrel de origen español se asociaron con Don Alberto A. Henkel para iniciar una pequeña fábrica de pastas. El 1 de Junio de 1959 adquieren dicha fábrica en sociedad los señores Don Luis Dosal (que fallece a los 24 días), Don Carlos Scougall y Don Eduardo Monroy Cárdenas quien queda al frente de la Dirección General. El lema de la compañía era “Excelencia de Sabor y Garantía de Calidad”. El secreto del buen servicio consistía en realizar un arduo trabajo. El mercado fue creciendo, lo que requirió la contratación de agentes de ventas para continuar brindando el servicio personalizado. El país gozaba del crecimiento y estabilidad económica conocida como el milagro mexicano. Estos factores favorecieron la instalación de una fábrica de galletas en la ciudad de Toluca que se constituyó el 30 de diciembre de 1972 con la razón social Fábrica de Galletas La Moderna S.A. de C.V.",
+            "rating": "8.50",
+            "img": "https://yt3.ggpht.com/a/AGF-l78QcM3UQ6_l8sR5luHznCpVHfPXCzHtMF9xwQ=s900-c-k-c0xffffffff-no-rj-mo"
+    },{
+        "name": "Bimbo",
+            "description": "Grupo Bimbo S.A.B. de C.V. es una empresa multinacional 100% mexicana, que se ha convertido en la panificadora más grande del mundo.​ Esta compañía tiene presencia en 32 países de América, Europa, Asia y África y genera un volumen de ventas anuales por 15 mil millones de dólares. El propósito principal de Grupo Bimbo es construir una empresa sustentable, altamente productiva y plenamente humana. La compañía tiene una de las redes de distribución más amplias en México y los Estados Unidos, y cotiza sus acciones en la Bolsa Mexicana de Valores bajo la clave BIMBO A. La empresa cuenta con 138 mil empleados, 199 plantas panificadoras,​ 3.3 millones de puntos de venta y una de las redes de distribución más grandes del mundo con 60 mil rutas en todo el planeta. Asimismo, Grupo Bimbo opera más de 100 marcas y más de 13 mil productos, entre los que destacan: Bimbo, Tía Rosa, Ricolino, Entenmann´s, Pullman, Rainbo, Nutrella, Marinela, Oroweat, Sara Lee, Thomas´, Arnold y Barcel, por mencionar algunas. Dentro de sus asociaciones estratégicas se encuentran «Alicorp (Perú), «Blue Label» (México), «Fincomún», «Galletas la Moderna», «Grupo Nutresa» (Colombia), «Mundo Dulce» («Arcor»), «PanGlo» y «Rich». Por sus labores en diferentes rubros, Grupo Bimbo ha recibido múltiples reconocimientos; algunos de los más importantes son: la empresa con mejor reputación de México; una de las compañías más éticas del mundo; una de las 500 empresas más importantes de México​ y una mención en el ranking “Global 2000” de Forbes, como una de las compañías públicas más grandes del mundo. Desde 1997, Daniel Servitje Montull funge como su Presidente del Consejo de Administración y Director General.",
+            "rating": "8.16",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ORGANIZACION_GRUPO_BIMBO-01.png/200px-ORGANIZACION_GRUPO_BIMBO-01.png"
+    }]
+
+
